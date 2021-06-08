@@ -1,0 +1,21 @@
+BootStrap - framework - conjunto de funcionalidades prontas podem ser usadas e alteradas conforme a necessidade
+do seu projeto. Twitter - Classes CSS que fazem toda parte de formatação da aplicação
+Responsivo - layout se ajustar(responder) ao dispositivos diferentes
+Mobile First - Começar a pensar nas telas pequenas - evoluir para as telas
+Planejamento - Prototipos - Wireframe
+Vários recursos - podem ser customizados --> CSS proprio estilização
+getbootstrap.com --> BS5 - BETA
+Template básico - HTML + Chamadas do arquivo que farão o framework ser aplicado na sua página
+
+
+
+viewport - área útil de exibição que o dispositivo que está fazendo acesso a sua página possui. Muda de dispositivo para dispositivo.
+Responsivo ==> Sistema de Grid - baseado em 12 colunas
+Media Queries = pontos de quebra
+Toda caixa == container = 2 classes que fazem a criação
+container == fixo 1140px
+container-fluid == responsivo ==> OCUPARÁ SEMPRE 100%
+bg-info - cor de fundo
+text-light - cor de texto
+padding -> p 0 - 5 ==> p-5 ==> pl-5 ==> px (left/right) - py(top/bottom)
+margim -> m 0 - 5
